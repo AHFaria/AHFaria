@@ -8,7 +8,7 @@ My prompts are modular and branching, with clear entry points, logic driven path
 
 This profile features the public versions of my prompt systems, including:
 
-- [Minerva Pro](#) cognitive support prompts for focus and emotional clarity  
+- [Minerva Pro](https://github.com/AHFaria/minerva-suite-pro-v3-5) cognitive support prompts for focus and emotional clarity  
 - [Minnie Basic](#) lightweight focus support for distraction, overwhelm, or task initiation  
 - [Atlas Job Suite](#) structured job search tools built for real world stress  
 - [P.O.E.](#) a writing prompt assistant that preserves voice, intent, and user control  
