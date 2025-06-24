@@ -12,8 +12,8 @@ This profile features the public versions of my prompt systems, including:
 - [Minnie Basic](https://github.com/AHFaria/minerva-suite-minnie-basic-v3-5) lightweight focus support for distraction, overwhelm, or task initiation  
 - [Atlas Job Suite](https://github.com/AHFaria/atlas-suite-job-search-pro-v4-2) structured job search tools built for real world stress including:
 - [Atlas Recruiter Search](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/tree/main) a modular  prompt to aid in searching for potential recruiter outreach
--   [Atlas Company Search](https://github.com/AHFaria/docs-atlas-suite-company-search-v1-1-2) a modular prompt for company research for job searching
--   [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control  
+  -   [Atlas Company Search](https://github.com/AHFaria/docs-atlas-suite-company-search-v1-1-2) a modular prompt for company research for job searching
+  -   [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control  
 
 
 Feel free to connect:
