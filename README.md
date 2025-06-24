@@ -36,8 +36,12 @@ This profile features the public versions of my prompt systems, including:
   - [Atlas Recruiter Search](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/tree/main) Helps users align and filter job titles based on actual responsibilities and preferred terminology.
   - [Atlas Role/Title Search](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) A structured writing assistant designed to support tone, message clarity, and user authorship control.
 - [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control
-- [Jiminy Cricket AI Ethics & Bias Checker (Coming Soon)] A guided prompt system for evaluating ethical risks, implicit bias, and model response integrity.
-- [Chiron Accessibility Assistant (Coming Soon)] A prompt-layer tool for identifying accessibility issues in AI interactions and output formatting.
+
+### ⏰ Coming Soon:
+- **Jiminy Cricket AI Ethics & Bias Checker**:
+  -  A guided prompt system for evaluating ethical risks, implicit bias, and model response integrity.
+- **Chiron Accessibility Assistant**:
+  -  A prompt-layer tool for identifying accessibility issues in AI interactions and output formatting.
 
 
 
