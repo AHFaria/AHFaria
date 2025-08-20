@@ -29,19 +29,22 @@ The core structures of these projects are built to handle layered decision makin
 
 This profile features the public versions of my prompt systems, including:
 
+### 🎇Newly Added:
+- [Chiron Accessibility Assistant Prompt](https://github.com/AHFaria/chiron-accessibility-assistant-v1) A plain-language accessibility assistant that helps users describe barriers, creators audit content, and teams reflect on ethics with dignity-based design.
+  
+### 💻Existing Portfolio:  
+
 - [Minerva Pro](https://github.com/AHFaria/minerva-suite-pro-v3-5) Cognitive support prompts designed to assist with focus management, task clarity, and emotional regulation.  
 - [Minnie Basic](https://github.com/AHFaria/minerva-suite-minnie-basic-v3-5) A lightweight, beginner-friendly focus tool for navigating distraction, overwhelm, and task initiation.
 - [Atlas Job Suite](https://github.com/AHFaria/atlas-suite-job-search-pro-v4-2) A practical, stress-tested job search toolkit built for real users navigating overwhelming listings, shifting role terms, and limited time.
-  - [Atlas Company Search](https://github.com/AHFaria/docs-atlas-suite-company-search-v1-1-2) A modular prompt for researching potential employers based on user-aligned values and criteria.
-  - [Atlas Recruiter Search](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/tree/main) Helps users align and filter job titles based on actual responsibilities and preferred terminology.
-  - [Atlas Role/Title Search](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) A structured writing assistant designed to support tone, message clarity, and user authorship control.
+- [Atlas Company Search](https://github.com/AHFaria/docs-atlas-suite-company-search-v1-1-2) A modular prompt for researching potential employers based on user-aligned values and criteria.
+- [Atlas Recruiter Search](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/tree/main) Helps users align and filter job titles based on actual responsibilities and preferred terminology.
+- [Atlas Role/Title Search](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) A structured writing assistant designed to support tone, message clarity, and user authorship control.
 - [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control
 
 ### ⏰ Coming Soon:
 - **Jiminy Cricket AI Ethics & Bias Checker**:
   -  A guided prompt system for evaluating ethical risks, implicit bias, and model response integrity.
-- **Chiron Accessibility Assistant**:
-  -  A prompt-layer tool for identifying accessibility issues in AI interactions and output formatting.
 
 
 
