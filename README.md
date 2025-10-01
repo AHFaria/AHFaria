@@ -45,6 +45,8 @@ This profile features the public versions of my prompt systems, including:
 ### ⏰ Coming Soon:
 - **Jiminy Cricket AI Ethics & Bias Checker**:
   -  A guided prompt system for evaluating ethical risks, implicit bias, and model response integrity.
+- **Atlas: Job Role Suitability Assessment GPT**:
+  -  This is an addition to the Atlas Job Suite. The Job Role Suitability Assessment GPT evaluates how well a user's resume and portfolio align with a specific job listing provided by the user.
 
 
 
