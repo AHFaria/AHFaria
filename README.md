@@ -1,40 +1,50 @@
 #  ✨Hi, I’m A.H. Faria
 
-My background spans metadata QA, classification, and content analysis.  These skills support research, data governance, and workflow development across publishing, legal, and corporate content environments. I bring this experience into my prompt design work, creating AI-assisted systems that bring clarity and structure to complex workflows. With a foundation in real-world use, I develop prompt frameworks that balance precision, accessibility, and adaptability.
+I care deeply about how information is created, maintained, and shared, because people make real decisions based on what they find, whether it's as simple as where to eat or as important as what doctor to visit. It's why I believe organizations have a responsibility to ensure their information is reliable, unbiased, and accurate.
 
-My approach is grounded in transferable logic and modular design. I create systems that can be adapted for job search workflows, ethical evaluations, executive function support, and structured communication. 
+I focus on data and information governance, metadata management, and information integrity, helping organizations prevent downstream failures caused by inconsistent definitions, poor classification, and unvetted data.
+
+I apply these same principles directly to AI where accurate, ethical, and well-structured information is the key to a strong foundation.
 
 
+
+---
 
 ## 🖥️Audit Strategies
 
 
-To support this, I apply a range of audit strategies, including adversarial testing (red teaming), to stress test for:
+Information integrity work and AI output evaluation share the same core failure modes: inaccurate records, inconsistent classifications, missing context, outdated information, and outputs that can have a negative impact on the people relying on them.
 
-- Bias
+I apply a structured audit approach to identify and address gaps that cause downstream issues.
+
+ℹ️ Information & Data Integrity
+
+- Accuracy
+- Classification consistency
+- Definition and standards alignment
+- Information lifecycle validity
+- Source reliability
+
+💻 AI Output Evaluation
+
+- Bias and fairness
 - Cognitive accessibility
-- Ethical resilience under pressure
-- Functional accuracy
-- Misaligned behavior
-- Unintended outputs
+- Misaligned or unintended outputs
+- Response integrity
 - UX clarity
 
-
-The core structures of these projects are built to handle layered decision making, shifting priorities, and cognitive strain—whether that means surfacing metadata tags from vague job titles, guiding users through ethical judgment calls, or adapting logic to fit varied user needs. I aim to build systems that reduce overwhelm, adapt to context, and support thoughtful, responsible use of AI. This perspective also supports process improvement, documentation clarity, user-centered design, and structured content workflows across a range of domains.
-
+This approach supports organizations working through process improvement, content workflow challenges, classification gaps, and responsible AI integration, whether the problem lives in a legacy database, a vendor submission, or a generated output.
 
 
-## ⚙️Prompt Systems
 
+---
 
-This profile features the public versions of my prompt systems, including:
+## 📚 Portfolios:  
 
-### 🎇Newly Added:
+### ⚙️Prompt Systems
+
 - [Chiron Accessibility Assistant Prompt](https://github.com/AHFaria/chiron-accessibility-assistant-v1) A plain-language accessibility assistant that helps users describe barriers, creators audit content, and teams reflect on ethics with dignity-based design.
-  
-### 💻Existing Portfolio:  
-
-- [Minerva Pro](https://github.com/AHFaria/minerva-suite-pro-v3-5) Cognitive support prompts designed to assist with focus management, task clarity, and emotional regulation.  
+- [Minerva Pro](https://github.com/AHFaria/minerva-suite-pro-v3-5) Cognitive support prompts designed to assist with focus management, task clarity, and emotional regulation.
 - [Minnie Basic](https://github.com/AHFaria/minerva-suite-minnie-basic-v3-5) A lightweight, beginner-friendly focus tool for navigating distraction, overwhelm, and task initiation.
 - [Atlas Job Suite](https://github.com/AHFaria/atlas-suite-job-search-pro-v4-2) A practical, stress-tested job search toolkit built for real users navigating overwhelming listings, shifting role terms, and limited time.
 - [Atlas Company Search](https://github.com/AHFaria/docs-atlas-suite-company-search-v1-1-2) A modular prompt for researching potential employers based on user-aligned values and criteria.
@@ -42,13 +52,22 @@ This profile features the public versions of my prompt systems, including:
 - [Atlas Role/Title Search](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) A structured writing assistant designed to support tone, message clarity, and user authorship control.
 - [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control
 
+
 ### ⏰ Coming Soon:
-- **Jiminy Cricket AI Ethics & Bias Checker**:
-  -  A guided prompt system for evaluating ethical risks, implicit bias, and model response integrity.
-- **Atlas: Job Role Suitability Assessment GPT**:
-  -  This is an addition to the Atlas Job Suite. The Job Role Suitability Assessment GPT evaluates how well a user's resume and portfolio align with a specific job listing provided by the user.
+- **Jiminy Cricket AI Ethics & Bias Checker**:  A guided prompt system for evaluating ethical risks, implicit bias, and model response integrity.
+  
+- **Atlas: Job Role Suitability Assessment GPT**:  This is an addition to the Atlas Job Suite. The Job Role Suitability Assessment GPT evaluates how well a user's resume and portfolio align with a specific job listing provided by the user.
 
 
+
+### 📊 Information & Data Integrity Projects
+
+This section is currently in development. Projects will include structured data analysis, metadata governance workflows, and information quality examples drawn from real-world datasets.
+
+
+
+
+---
 
 ## 🧩Feel free to connect with me:
 
