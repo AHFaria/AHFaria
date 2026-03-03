@@ -50,7 +50,7 @@ This approach supports organizations working through process improvement, conten
 - [Atlas Company Search](https://github.com/AHFaria/docs-atlas-suite-company-search-v1-1-2) A modular prompt for researching potential employers based on user-aligned values and criteria.
 - [Atlas Recruiter Search](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/tree/main) Helps users align and filter job titles based on actual responsibilities and preferred terminology.
 - [Atlas Role/Title Search](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) A structured writing assistant designed to support tone, message clarity, and user authorship control.
-- [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control
+- [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control.
 
 
 ### ⏰ Coming Soon:
@@ -62,7 +62,7 @@ This approach supports organizations working through process improvement, conten
 
 ### 📊 Information & Data Integrity Projects
 
-This section is currently in development. Projects will include structured data analysis, metadata governance workflows, and information quality examples drawn from real-world datasets.
+- [Retail Metadata Ingestion and Workflow Improvement](https://github.com/AHFaria/iip-workflow-improvement-metadata-ingestion-retail) An Information Integrity Project focused on taking flat query spreadsheet return and turning it into a multi-sheet workbook with actionable categories, metrics, and problem tracking use.
 
 
 
