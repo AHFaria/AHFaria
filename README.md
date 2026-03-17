@@ -64,7 +64,7 @@ This approach supports organizations working through process improvement, conten
 
 - [Retail Metadata Ingestion and Workflow Improvement](https://github.com/AHFaria/iip-workflow-improvement-metadata-ingestion-retail) An Information Integrity Project focused on taking flat query spreadsheet return and turning it into a multi-sheet workbook with actionable categories, metrics, and problem tracking use.
 
-
+- [HHS Contract Expiration — Classification Governance & Integrity Analysis](https://github.com/AHFaria/iip-contract-classification-integrity-hhs) An Information Integrity Project applying classification governance and downstream use case planning to publicly sourced Health & Human Surfaces contract expiration data file (17,773 records), including data field separation, NAICS taxonomy classification, and multi-dimensional reporting with Looker visualization.
 
 
 ---
