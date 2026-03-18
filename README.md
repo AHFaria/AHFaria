@@ -41,7 +41,15 @@ This approach supports organizations working through process improvement, conten
 
 ## 📚 Portfolios:  
 
-### ⚙️Prompt Systems
+### 📊 Information & Data Integrity Projects
+
+- [Retail Metadata Ingestion and Workflow Improvement](https://github.com/AHFaria/iip-workflow-improvement-metadata-ingestion-retail) An Information Integrity Project (IIP) focused on taking flat query spreadsheet return and turning it into a multi-sheet workbook with actionable categories, metrics, and problem tracking use.
+
+- [HHS Contract Expiration — Classification Governance & Integrity Analysis](https://github.com/AHFaria/iip-contract-classification-integrity-hhs) An Information Integrity Project (IIP) applying classification governance and downstream use case planning to publicly sourced Health & Human Surfaces contract expiration data file (17,773 records), including data field separation, NAICS taxonomy classification, and multi-dimensional reporting with Looker visualization.
+
+- [Chiron Accessibility Audit & Ethics Integrity Framework](https://github.com/AHFaria/iip-accessibility-audit-integrity-assistant-chiron) An Information Integrity Project (IIP) applying WCAG 2.2 and plain-language principles to accessibility audit and ethics review. Includes a structured three-part audit cycle, fulfillment ratings rubric, UX walkthrough, and full QA documentation set.
+
+### ⚙️Prompt Systems & Frameworks
 
 - [Minerva Pro](https://github.com/AHFaria/minerva-suite-pro-v3-5) Cognitive support prompts designed to assist with focus management, task clarity, and emotional regulation.
 - [Minnie Basic](https://github.com/AHFaria/minerva-suite-minnie-basic-v3-5) A lightweight, beginner-friendly focus tool for navigating distraction, overwhelm, and task initiation.
@@ -50,23 +58,6 @@ This approach supports organizations working through process improvement, conten
 - [Atlas Recruiter Search](https://github.com/AHFaria/docs-atlas-suite-recruiter-partner-prompt-v1-1/tree/main) Helps users align and filter job titles based on actual responsibilities and preferred terminology.
 - [Atlas Role/Title Search](https://github.com/AHFaria/atlas-suite-role-title-assistant-v1-1) A structured writing assistant designed to support tone, message clarity, and user authorship control.
 - [P.O.E.](https://github.com/AHFaria/poe-post-writing-assistant-v1-0/tree/main) a writing prompt assistant that preserves voice, intent, and user control.
-
-
-### ⏰ Coming Soon:
-- **Jiminy Cricket AI Ethics & Bias Checker**:  A guided prompt system for evaluating ethical risks, implicit bias, and model response integrity.
-  
-- **Atlas: Job Role Suitability Assessment GPT**:  This is an addition to the Atlas Job Suite. The Job Role Suitability Assessment GPT evaluates how well a user's resume and portfolio align with a specific job listing provided by the user.
-
-
-
-### 📊 Information & Data Integrity Projects
-
-- [Retail Metadata Ingestion and Workflow Improvement](https://github.com/AHFaria/iip-workflow-improvement-metadata-ingestion-retail) An Information Integrity Project (IIP) focused on taking flat query spreadsheet return and turning it into a multi-sheet workbook with actionable categories, metrics, and problem tracking use.
-
-- [HHS Contract Expiration — Classification Governance & Integrity Analysis](https://github.com/AHFaria/iip-contract-classification-integrity-hhs) An Information Integrity Project (IIP) applying classification governance and downstream use case planning to publicly sourced Health & Human Surfaces contract expiration data file (17,773 records), including data field separation, NAICS taxonomy classification, and multi-dimensional reporting with Looker visualization.
-
-- [Chiron Accessibility Assistant Prompt](https://github.com/AHFaria/iip-accessibility-audit-integrity-assistant-chiron) An Information Integrity Project (IIP) applying WCAG 2.2 and plain-language principles to accessibility audit and ethics review. Includes a structured three-part audit cycle, fulfillment ratings rubric, UX walkthrough, and full QA documentation set.
-
 
 ---
 
