@@ -43,7 +43,6 @@ This approach supports organizations working through process improvement, conten
 
 ### ⚙️Prompt Systems
 
-- [Chiron Accessibility Assistant Prompt](https://github.com/AHFaria/chiron-accessibility-assistant-v1) A plain-language accessibility assistant that helps users describe barriers, creators audit content, and teams reflect on ethics with dignity-based design.
 - [Minerva Pro](https://github.com/AHFaria/minerva-suite-pro-v3-5) Cognitive support prompts designed to assist with focus management, task clarity, and emotional regulation.
 - [Minnie Basic](https://github.com/AHFaria/minerva-suite-minnie-basic-v3-5) A lightweight, beginner-friendly focus tool for navigating distraction, overwhelm, and task initiation.
 - [Atlas Job Suite](https://github.com/AHFaria/atlas-suite-job-search-pro-v4-2) A practical, stress-tested job search toolkit built for real users navigating overwhelming listings, shifting role terms, and limited time.
@@ -62,9 +61,11 @@ This approach supports organizations working through process improvement, conten
 
 ### 📊 Information & Data Integrity Projects
 
-- [Retail Metadata Ingestion and Workflow Improvement](https://github.com/AHFaria/iip-workflow-improvement-metadata-ingestion-retail) An Information Integrity Project focused on taking flat query spreadsheet return and turning it into a multi-sheet workbook with actionable categories, metrics, and problem tracking use.
+- [Retail Metadata Ingestion and Workflow Improvement](https://github.com/AHFaria/iip-workflow-improvement-metadata-ingestion-retail) An Information Integrity Project (IIP) focused on taking flat query spreadsheet return and turning it into a multi-sheet workbook with actionable categories, metrics, and problem tracking use.
 
-- [HHS Contract Expiration — Classification Governance & Integrity Analysis](https://github.com/AHFaria/iip-contract-classification-integrity-hhs) An Information Integrity Project applying classification governance and downstream use case planning to publicly sourced Health & Human Surfaces contract expiration data file (17,773 records), including data field separation, NAICS taxonomy classification, and multi-dimensional reporting with Looker visualization.
+- [HHS Contract Expiration — Classification Governance & Integrity Analysis](https://github.com/AHFaria/iip-contract-classification-integrity-hhs) An Information Integrity Project (IIP) applying classification governance and downstream use case planning to publicly sourced Health & Human Surfaces contract expiration data file (17,773 records), including data field separation, NAICS taxonomy classification, and multi-dimensional reporting with Looker visualization.
+
+- [Chiron Accessibility Assistant Prompt](https://github.com/AHFaria/iip-accessibility-audit-integrity-assistant-chiron) An Information Integrity Project (IIP) applying WCAG 2.2 and plain-language principles to accessibility audit and ethics review. Includes a structured three-part audit cycle, fulfillment ratings rubric, UX walkthrough, and full QA documentation set.
 
 
 ---
