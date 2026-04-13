@@ -2,9 +2,9 @@
 
 I care deeply about how information is created, maintained, and shared, because people make real decisions based on what they find, whether it's as simple as where to eat or as important as what doctor to visit. It's why I believe organizations have a responsibility to ensure their information is reliable, unbiased, and accurate.
 
-I focus on data and information governance, metadata management, and information integrity, helping organizations prevent downstream failures caused by inconsistent definitions, poor classification, and unvetted data.
+My work in data and information governance, metadata management, and information integrity helps organizations prevent various lifecycle and downstream failures including inconsistent procedures, information degradation, and workflow breakdowns.
 
-I apply these same principles directly to AI where accurate, ethical, and well-structured information is the key to a strong foundation.
+I apply these same principles to AI. My approach combines human-in-the-loop accountability with a clear focus on user needs, ensuring AI outputs are built on a foundation that's accurate, ethical, and accessible.
 
 
 
